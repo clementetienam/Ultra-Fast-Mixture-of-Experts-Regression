@@ -40,7 +40,7 @@ All libraries are included for your convenience.
 
 Manuscript
 -----------------------------
-
+-Clement Etienam, Kody Law, Sara Wade. Ultra-fast Deep Mixtures of Gaussian Process Experts. arXiv preprint arXiv:2006.13309, 2020.
 Extras
 --------------------------------------
 Extra methods are included also;
